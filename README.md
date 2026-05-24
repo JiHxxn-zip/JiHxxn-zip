@@ -4,7 +4,7 @@
 
 <p>안녕하세요! 개발을 좋아하는 개발자입니다 🙌</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kda5772&fontSize=50&fontAlignY=35&animation=twinkling)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kda5772&fontSize=50&fontAlignY=35&animation=twinkling](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello!%20JiHoon%GitHub&reversal=false&section=header&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=47&animation=fadeIn&desc=Client%20developer&descAlignY=69))
 
 </div>
 
