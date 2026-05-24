@@ -6,9 +6,8 @@
 
 ## 🙋 About Me
 
-- 🔭 현재 개발 공부 중입니다
-- 🌱 꾸준히 성장하고 있어요
-- 💬 언제든 연락해 주세요!
+* Developed and operated **'Seoul Edu Math Metaverse'** with Seoul Metropolitan Office of Education (서울특별시 교육청) — [Google Play](https://play.google.com/store/apps/details?id=com.mathlove.semm&pli=1)
+* Developed and operated **'[VR] Cross Math'** at MathLove — [Meta Store](https://www.meta.com/sv-se/experiences/cross-math-vr/7574733252550447/)
 
 ## 🎮 Game Engine
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
