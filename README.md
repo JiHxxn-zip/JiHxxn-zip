@@ -40,7 +40,7 @@
 </td>
 <td valign="top">
 
-![stats](https://streak-stats.demolab.com?user=JiHxxn-zip)
+[![streak](https://streak-stats.demolab.com?user=JiHxxn-zip)](https://git.io/streak-stats)
 
 </td>
 </tr>
