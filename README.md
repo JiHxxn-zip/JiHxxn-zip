@@ -10,11 +10,11 @@
 - 🌱 꾸준히 성장하고 있어요
 - 💬 언제든 연락해 주세요!
 
-## 🎮 게임엔진
+## 🎮 Game Engine
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)  
 
-## 💻 언어
+## 💻 Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
