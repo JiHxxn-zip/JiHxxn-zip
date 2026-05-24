@@ -15,9 +15,9 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)  
 
 ## 💻 언어
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/C#-00599C?style=flat&logo=C%2B%2B&logoColor=white) 
 
 ## 📊 GitHub Stats
 
