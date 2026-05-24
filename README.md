@@ -1,4 +1,4 @@
-<div align="left">  
+<div align="center">  
     
 ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&text=Hello!%20JiHoon%GitHub&reversal=false&section=header&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=47&animation=fadeIn&desc=Client%20developer&descAlignY=69)
 
@@ -19,19 +19,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![kda5772's GitHub stats](https://github-readme-stats.vercel.app/api?username=kda5772&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kda5772&layout=compact&theme=dark)](https://github.com/kda5772)
-
 </div>
 
 ## 🏆 Solved.ac
 
-<div align="center">
+<div align="left">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kda5772)](https://solved.ac/kda5772)
 
