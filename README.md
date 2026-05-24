@@ -1,9 +1,4 @@
 <div align="center">
-
-# 안녕하세요! kda5772입니다 👋
-
-<p>안녕하세요! 개발을 좋아하는 개발자입니다 🙌</p>
-
 ![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello!%20JiHoon%GitHub&reversal=false&section=header&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=47&animation=fadeIn&desc=Client%20developer&descAlignY=69)
 
 </div>
@@ -16,7 +11,12 @@
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ## 📊 GitHub Stats
 
