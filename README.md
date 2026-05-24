@@ -39,7 +39,7 @@
 </td>
 <td valign="top">
 
-![stats](https://ghchart.rshah.org/JiHxxn-zip)
+![stats](https://github-profile-trophy.vercel.app/?username=JiHxxn-zip)
 
 </td>
 </tr>
