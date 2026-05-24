@@ -34,7 +34,7 @@
 <tr>
 <td valign="top">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kda5772)](https://solved.ac/kda5772)
+[![Solved.ac 프로필](https://streak-stats.demolab.com?user=JiHxxn-zip)
 
 </td>
 <td valign="top">
