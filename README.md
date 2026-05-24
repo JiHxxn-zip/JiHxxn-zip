@@ -1,6 +1,6 @@
 <div align="center">  
     
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello!%20JiHoon%GitHub&reversal=false&section=header&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=47&animation=fadeIn&desc=Client%20developer&descAlignY=69)
+![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&text=Hello!%20JiHoon%GitHub&reversal=false&section=header&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=47&animation=fadeIn&desc=Client%20developer&descAlignY=69)
 
 </div>
 
@@ -10,14 +10,14 @@
 - 🌱 꾸준히 성장하고 있어요
 - 💬 언제든 연락해 주세요!
 
-## 🛠 Tech Stack
-
+## 🎮 게임엔진
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)  
+
+## 💻 언어
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ## 📊 GitHub Stats
 
