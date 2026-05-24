@@ -39,7 +39,7 @@
 </td>
 <td valign="top">
 
-![stats](https://github-readme-stats.vercel.app/api?username=JiHxxn-zip&show_icons=true&theme=default)
+![stats](https://ghchart.rshah.org/JiHxxn-zip)
 
 </td>
 </tr>
