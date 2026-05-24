@@ -22,15 +22,6 @@
 </div>
 
 ## 🏆 Solved.ac
-
-<div align="left">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kda5772)](https://solved.ac/kda5772)
-
-</div>
-
---- 
-
 <table>
 <tr>
 <td valign="top">
