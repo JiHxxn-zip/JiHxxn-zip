@@ -30,16 +30,17 @@
 </div>
 
 --- 
+
 <table>
 <tr>
 <td valign="top">
 
-[![Solved.ac 프로필](https://streak-stats.demolab.com?user=JiHxxn-zip)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kda5772)](https://solved.ac/kda5772)
 
 </td>
 <td valign="top">
 
-![stats](https://github-profile-trophy.vercel.app/?username=JiHxxn-zip)
+![stats](https://streak-stats.demolab.com?user=JiHxxn-zip)
 
 </td>
 </tr>
