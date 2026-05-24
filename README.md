@@ -10,7 +10,7 @@
 * Developed and operated **'Gangwon Math World'** with Gangwon State Office of Education (강원특별자치도교육청교육과학정보원) — [Video](https://vimeo.com/showcase/10634186?video=787499331)
 * Developed and operated **'[VR] Cross Math'** at MathLove — [Meta Store](https://www.meta.com/sv-se/experiences/cross-math-vr/7574733252550447/)
 * Developed **'MathGames'** at MathLove — [Google Play](https://play.google.com/store/apps/details?id=com.MathLove.IAMGames) | [App Store](https://apps.apple.com/vn/app/%EC%95%84%EC%9D%B4%EC%97%A0%ED%95%99%EC%8A%B5%EA%B2%8C%EC%9E%84/id1633602277)
-* Developed **'AR Timeline of Artificial Intelligence'** at MathLove — [App Store](https://apps.apple.com/vn/app/ar%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%B0%EB%8C%80%ED%91%9C/id6463578827)
+* Developed **'[AR] Timeline of Artificial Intelligence'** at MathLove — [App Store](https://apps.apple.com/vn/app/ar%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%97%B0%EB%8C%80%ED%91%9C/id6463578827)
 
 ## 🎮 Game Engine
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
