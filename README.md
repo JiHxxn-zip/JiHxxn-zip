@@ -11,8 +11,8 @@
 - 💬 언제든 연락해 주세요!
 
 ## 🎮 게임엔진
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)  
 
 ## 💻 언어
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) 
