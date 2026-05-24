@@ -29,6 +29,30 @@
 
 </div>
 
+--- 
+## 🏆 Solved.ac & 💻 언어
+
+<table>
+<tr>
+<td valign="top">
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kda5772)](https://solved.ac/kda5772)
+
+</td>
+<td valign="top">
+
+## 🎮 게임엔진
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
+
+## 💻 언어
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 --- 
 <div align= "center">
